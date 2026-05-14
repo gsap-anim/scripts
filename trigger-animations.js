@@ -1,1 +1,1 @@
-console.log("Скрипт работает!");
+// Raido Hotels
